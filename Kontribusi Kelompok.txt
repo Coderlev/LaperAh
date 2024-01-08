@@ -1,0 +1,2 @@
+Julian bertanggung jawab untuk membuat antarmuka pengguna (UI) untuk menu di aplikasi.  Ervan dan Ravel menbuat bagian  logika dan function di code tersebut. Tugas Saya menbantu  juga nge debugging code code tersebut karena awal-awal masih banyak yang error.
+Setelah sejumlah perbaikan dan penyesuaian, akhirnya aplikasi tersebut mulai berfungsi sebagaimana diharapkan. Data berhasil disimpan dan diambil dari database MySQL, fungsi-fungsi seperti menampilkan menu, membuat reservasi, melakukan pemesanan, dan lainnya berjalan dengan baik.
